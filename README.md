@@ -1,0 +1,1 @@
+Este projeto tem como objetivo aprender os conceitos fundamentais do framework SpringBoot, aplicando a diferentes funcionalidades para posteriormente ser feita a realização de um projeto final que contenha o conteúdo estudado ao longo das aulas.
